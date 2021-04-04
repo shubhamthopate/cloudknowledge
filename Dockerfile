@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER shubham
+MAINTAINER amol
 RUN yum install httpd -y \
   zip \
  unzip
